@@ -1,6 +1,6 @@
 #include <iostream>
 #include <iomanip>
-using namepsace std;
+using namespace std;
 const int maxLlogari = 100;
 string emrat[maxLlogari];
 int numratLlogarive[maxLlogari];
@@ -99,6 +99,8 @@ void krijollogari()     //Lejon perdoruesit qe te krijojne nje llogari te re
 void kerkoLlogarine() //I'u mundeson perdoruesve te kerkojne nje llogari unike permes numrit te llogarise
 {
 	int numriLlogarise;
+	 for(int i=0;i<llogariTotale;i++)
+		 {
 		if (numratLlogarive[i] == numriLlogarise) //Nese numri i loogarise ekziston  
 		{
 			cout << "Emri i mbajtesit te llogarise: " << emrat[i] << endl;

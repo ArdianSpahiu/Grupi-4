@@ -100,6 +100,8 @@ void krijollogari()     //Lejon perdoruesit qe te krijojne nje llogari te re
 void kerkoLlogarine() //I'u mundeson perdoruesve te kerkojne nje llogari unike permes numrit te llogarise
 {
 	int numriLlogarise;
+	cout<<"Jepni numrin e llogarise:";
+	cin>>numriLlogarise;
 	 for(int i=0;i<llogariTotale;i++)
 		 {
 		if (numratLlogarive[i] == numriLlogarise) //Nese numri i loogarise ekziston  

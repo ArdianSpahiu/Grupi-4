@@ -34,19 +34,19 @@ void depozitoPara()  //Lejon perdoruesit e depozitojne para ne llogarite e tyre 
 
 		if (numratLlogarive[i] == numriLlogarise)
 		{
-		do {
-   		     cout << "Jepni shumen te cilen doni ta depozitoni: ";
-                     cin >> shuma;
-
-                if (shuma <= 0)
-                {
-                  cout << "Shume invalide! Ju lutem vendosni nje shume me te madhe se 0.\n";
-                } 
-              } while (shuma <= 0);  // Vazhdon derisa perdoruesi te jape shume valide
-
-                balanca[i] += shuma;
-                cout << "Parate u depozituan me sukses!" << endl;
-                return; // Dalja nga funksioni pas ekzekutimit te suksesshem
+		shuma1: cout << "Jepni shumen te cilen doni ta depozitoni: ";
+			cin >> shuma;
+			if (shuma > 0)  //Shuma e depozituar duhet te jete me e madhe se zero
+			{
+				balanca[i] += shuma;
+				cout << "Parate u depozituan me sukses!" << endl;
+			}
+			else
+			{
+			cout << "Shume invalide!" << endl; //Nese perdoruesi jep nje shume me te vogel se zero
+			goto shuma1;
+                        } 
+			return ;// Dalja nga funksioni pas ekzekutimit te suksesshem
 		}
 	}
 	cout << "Llogaria nuk u gjet!" << endl; //Rasti kur numri i llogaris nuk eshte valid

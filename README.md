@@ -38,7 +38,7 @@ Zgjidhni (2) nga menuja dhe shkruani numrin e llogarisë. Nëse llogaria ekzisto
 
 Zgjidhni (3) nga menuja, shkruani numrin e llogarisë dhe përcaktoni shumën që dëshironi të tërhiqni. Programi do të verifikojë nëse balanca është e mjaftueshme përpara se të procedojë.
 
-imazhi 3
+![Image](https://github.com/user-attachments/assets/da9ef5ed-1399-4236-a028-a6dd68be62d7)
 
 --Kërkimi i një Llogarie--
 

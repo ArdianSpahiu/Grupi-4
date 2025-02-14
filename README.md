@@ -103,7 +103,6 @@ Hapat për të kontribuar
 
    Hapni projektin e klonuar në kompjuterin tuaj duke përdorur një mjet të preferuar për zhvillim.
    
-   Ne vazhdim gjeni udhezime vizuale se si ta bëni këtë.
+   Në vazhdim gjeni udhezime vizuale se si ta bëni këtë.
 
-
-   imazhet
+![Image](https://github.com/user-attachments/assets/a1fd0b1f-bb15-425f-bee0-665fe8191836)

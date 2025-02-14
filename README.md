@@ -64,3 +64,17 @@ Shënime
 - Depozitat duhet të jenë vlera pozitive.
 - Tërheqjet nuk mund të tejkalojnë balancën e llogarisë.
 
+--Si të Klononi Projektin Lokalisht--
+
+1.Shkoni te butoni Code në GitHub.
+imazhi 1
+2.Kopjoni linkun HTTPS të repository-t.
+imazhi 2
+3.Hapni Visual Studio dhe klikoni Clone Repository.
+imazhi 3
+4.Ngjitni linkun HTTPS që keni kopjuar.
+5.Klikoni Clone.
+imazhi 4
+Ju e keni klonuar me sukses projektin!
+imazhi 5
+

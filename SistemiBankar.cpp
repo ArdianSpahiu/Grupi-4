@@ -75,9 +75,11 @@ void terhiqPara()
                 cout << "Parate u terhiqen me sukses!" << endl;
             }
             else
-                // nese shuma eshte me vogel se 0 ose llogaria nuk ka para te mjaftueshme
+	    { // nese shuma eshte me vogel se 0 ose llogaria nuk ka para te mjaftueshme
                 cout << "Nuk keni para te mjaftushme ose shume invalide!" << endl;
             goto shuma1;
+	    }
+		return;
         }
     }
     cout << "Llogaria nuk u gjet!" << endl;

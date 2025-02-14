@@ -126,7 +126,7 @@ Hapat për të kontribuar
 
      Shtoni një përshkrim të qartë të ndryshimeve që keni bërë.
 
-ndryshime
+![Image](https://github.com/user-attachments/assets/e7d2c8e1-0017-4396-8bad-f697c0f10be4)
 
 4.   Dërgimi i Ndryshimeve në GitHub
 

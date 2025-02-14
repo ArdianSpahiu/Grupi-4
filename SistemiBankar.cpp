@@ -6,7 +6,7 @@ string emrat[maxLlogari];
 int numratLlogarive[maxLlogari];
 double balanca[maxLlogari];
 int llogariTotale = 0;
- Krijo--Llogari
+
 void krijollogari()     //Lejon perdoruesit qe te krijojne nje llogari te re
 {
 

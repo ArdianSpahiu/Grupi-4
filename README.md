@@ -88,3 +88,22 @@ Ju e keni klonuar me sukses projektin!
 
 ![Image](https://github.com/user-attachments/assets/fc510fa8-adcf-4e9e-9db2-3635a0d97770)
 
+
+Si të kontribuoni në këtë projekt GitHub
+
+Faleminderit që dëshironi të kontribuoni në këtë projekt! Ky dokument do t’ju udhëzojë hap pas hapi se si të bëni ndryshime dhe t’i propozoni ato për bashkim në projekt.
+
+Hapat për të kontribuar
+
+1. Fork dhe Klonim i Repositorit
+
+   Hapni faqen e projektit në GitHub.
+
+   Klikoni butonin Fork për të krijuar një kopje të projektit në llogarinë tuaj.
+
+   Hapni projektin e klonuar në kompjuterin tuaj duke përdorur një mjet të preferuar për zhvillim.
+   
+   Ne vazhdim gjeni udhezime vizuale se si ta bëni këtë.
+
+
+   imazhet

@@ -50,7 +50,7 @@ Zgjidhni (4) dhe shkruani numrin e llogarisë për të shfaqur emrin e mbajtësi
 
 Zgjidhni (5) për të parë të gjitha llogaritë e regjistruara së bashku me bilancet e tyre.
 
-imazhi 5
+![Image](https://github.com/user-attachments/assets/09d01582-9ce1-42ec-aa99-985ae9b8796f)
 
 --Dalja nga Programi--
 

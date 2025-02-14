@@ -17,3 +17,11 @@ Kur e ekzekutoni programin, do të shihni menynë e mëposhtme:
 
 ![Image](https://github.com/user-attachments/assets/2d4627d5-5c9f-4c35-8b78-34edada063d2)
 
+Shtypni një numër (1-6) për të kryer veprimin përkatës.
+
+Demonstrimi i Veçorive
+
+--Krijimi i një Llogarie--
+
+Zgjidhni (1) nga menuja për të krijuar një llogari të re. Do t'ju kërkohet të jepni emrin e përdoruesit dhe numrin e llogarisë.
+

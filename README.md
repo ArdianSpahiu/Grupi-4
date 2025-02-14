@@ -116,4 +116,6 @@ Hapat për të kontribuar
     Hapni projektin dhe krijoni një degë të re ku do të bëni ndryshimet.
     Emërtoni degën në mënyrë të qartë që të përshkruajë punën tuaj.
 
+![Image](https://github.com/user-attachments/assets/01388b3c-5ba9-407b-8fc9-e91ae2ef0a2a)
+
 

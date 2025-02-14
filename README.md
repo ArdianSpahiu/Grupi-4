@@ -128,13 +128,13 @@ Hapat për të kontribuar
 
 ![Image](https://github.com/user-attachments/assets/e7d2c8e1-0017-4396-8bad-f697c0f10be4)
 
-4.   Dërgimi i Ndryshimeve në GitHub
+4. Dërgimi i Ndryshimeve në GitHub
 
-       Ngarkoni ndryshimet tuaja në llogarinë tuaj në GitHub.
+    Ngarkoni ndryshimet tuaja në llogarinë tuaj në GitHub.
 
-       Hapni projektin në GitHub dhe krijoni një Pull Request (PR).
+   Hapni projektin në GitHub dhe krijoni një Pull Request (PR).
 
-       Shtoni një përshkrim të qartë se çfarë përmirësimesh ose ndryshimesh keni bërë.
+   Shtoni një përshkrim të qartë se çfarë përmirësimesh ose ndryshimesh keni bërë.
 
 ![Image](https://github.com/user-attachments/assets/aa769501-51c4-4af0-8dcd-368bac204333)
 
@@ -142,6 +142,28 @@ Hapat për të kontribuar
 
 ![Image](https://github.com/user-attachments/assets/25314205-da62-467e-9a44-7a7cbcd0cbf9)
 
+
+5. Shqyrtimi dhe Bashkimi i Ndryshimeve
+
+ Zhvilluesit kryesorë do të shqyrtojnë ndryshimet tuaja dhe mund të kërkojnë modifikime.
+ Pasi ndryshimet të miratohen, ato do të bashkohen në degën kryesore të projektit.
+ 
+ Udhëzime për Kodimin
+
+   Ndiqni stilin e kodimit të projektit.
+   Shkruani përshkrime të qarta për ndryshimet tuaja.
+   Sigurohuni që ndryshimet nuk ndikojnë në funksionalitetin ekzistues.
+
+
+Pyetje apo Problematika?
+
+Nëse keni ndonjë pyetje, hapni një Issue në GitHub ose kontaktoni administratorët e projektit.
+
+ardian.spahiu2@student.uni-pr.edu
+denisa.isufi@student.uni-pr.edu
+nisa.ahmetaj@student.uni-pr.edu
+
+Faleminderit për kontributin tuaj! 
      
    
 

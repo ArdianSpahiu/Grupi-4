@@ -78,6 +78,7 @@ void terhiqPara()
         }
     }
     cout << "Llogaria nuk u gjet!" << endl;
+}
 void krijollogari()     //Lejon perdoruesit qe te krijojne nje llogari te re
 {
 

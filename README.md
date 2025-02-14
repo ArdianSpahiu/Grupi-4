@@ -105,18 +105,16 @@ Hapat për të kontribuar
    
    Në vazhdim gjeni udhezime vizuale se si ta bëni këtë.
 
-![Image](https://github.com/user-attachments/assets/a1fd0b1f-bb15-425f-bee0-665fe8191836)
-
-![Image](https://github.com/user-attachments/assets/92639780-d0b8-44fb-8d6a-fc347a1bcb6e)
-
-![Image](https://github.com/user-attachments/assets/ab7a70aa-bf5f-4e8b-985f-2043551629af)
+fork
+create fork
+clone fork
 
 2. Krijimi i një Dege të Re
 
     Hapni projektin dhe krijoni një degë të re ku do të bëni ndryshimet.
     Emërtoni degën në mënyrë të qartë që të përshkruajë punën tuaj.
 
-![Image](https://github.com/user-attachments/assets/01388b3c-5ba9-407b-8fc9-e91ae2ef0a2a)
+masterclone
 
 3. Bërja e Ndryshimeve dhe Konfirmimi (Commit)
 
@@ -126,7 +124,7 @@ Hapat për të kontribuar
 
      Shtoni një përshkrim të qartë të ndryshimeve që keni bërë.
 
-![Image](https://github.com/user-attachments/assets/648a0e4f-65d4-47a9-84b7-1afe67ad5635)
+ndryshime
 
 4.   Dërgimi i Ndryshimeve në GitHub
 

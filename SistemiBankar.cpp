@@ -153,6 +153,7 @@ int main()
         }
     
     }
+    cout << "Ndryshime" << endl;
    while(zgjedhja!=6);
 
 	return 0;

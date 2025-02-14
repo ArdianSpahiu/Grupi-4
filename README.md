@@ -108,3 +108,5 @@ Hapat për të kontribuar
 ![Image](https://github.com/user-attachments/assets/a1fd0b1f-bb15-425f-bee0-665fe8191836)
 
 ![Image](https://github.com/user-attachments/assets/92639780-d0b8-44fb-8d6a-fc347a1bcb6e)
+
+![Image](https://github.com/user-attachments/assets/ab7a70aa-bf5f-4e8b-985f-2043551629af)

@@ -136,6 +136,12 @@ Hapat për të kontribuar
 
        Shtoni një përshkrim të qartë se çfarë përmirësimesh ose ndryshimesh keni bërë.
 
+![Image](https://github.com/user-attachments/assets/aa769501-51c4-4af0-8dcd-368bac204333)
+
+![Image](https://github.com/user-attachments/assets/d3c49ed6-1c91-44af-8683-594c9f88db14)
+
+![Image](https://github.com/user-attachments/assets/25314205-da62-467e-9a44-7a7cbcd0cbf9)
+
      
    
 

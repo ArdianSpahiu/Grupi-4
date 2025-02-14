@@ -116,7 +116,7 @@ Hapat për të kontribuar
     Hapni projektin dhe krijoni një degë të re ku do të bëni ndryshimet.
     Emërtoni degën në mënyrë të qartë që të përshkruajë punën tuaj.
 
-masterclone
+![Image](https://github.com/user-attachments/assets/f2724e9c-d0fd-4dca-9966-f9e736cfc342)
 
 3. Bërja e Ndryshimeve dhe Konfirmimi (Commit)
 

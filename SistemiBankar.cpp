@@ -25,7 +25,7 @@ void shfaqLlogarite()
 
 void depozitoPara()  //Lejon perdoruesit e depozitojne para ne llogarite e tyre ekzistuese.
 {
-	int int numriLlogarise;
+	int  numriLlogarise;
 	double shuma;
   cout << "Jepni numrin e llogarise: ";
 	cin >> numriLlogarise;

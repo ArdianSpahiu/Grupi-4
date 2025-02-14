@@ -27,3 +27,10 @@ Zgjidhni (1) nga menuja për të krijuar një llogari të re. Do t'ju kërkohet 
 
 ![Image](https://github.com/user-attachments/assets/386aa8c3-de98-40be-8d6b-123a7fe35735)
 
+
+--Depozitimi i Parave--
+
+Zgjidhni (2) nga menuja dhe shkruani numrin e llogarisë. Nëse llogaria ekziston, shkruani shumën që dëshironi të depozitoni.
+
+
+

@@ -32,5 +32,35 @@ Zgjidhni (1) nga menuja për të krijuar një llogari të re. Do t'ju kërkohet 
 
 Zgjidhni (2) nga menuja dhe shkruani numrin e llogarisë. Nëse llogaria ekziston, shkruani shumën që dëshironi të depozitoni.
 
+![Image](https://github.com/user-attachments/assets/09b58855-71bd-4750-8bf7-c551db626e8d)
 
+--Tërheqja e Parave--
+
+Zgjidhni (3) nga menuja, shkruani numrin e llogarisë dhe përcaktoni shumën që dëshironi të tërhiqni. Programi do të verifikojë nëse balanca është e mjaftueshme përpara se të procedojë.
+
+imazhi 3
+
+--Kërkimi i një Llogarie--
+
+Zgjidhni (4) dhe shkruani numrin e llogarisë për të shfaqur emrin e mbajtësit të llogarisë, numrin e llogarisë dhe bilancin aktual.
+
+imazhi 4
+
+--Shfaqja e të Gjitha Llogarive--
+
+Zgjidhni (5) për të parë të gjitha llogaritë e regjistruara së bashku me bilancet e tyre.
+
+imazhi 5
+
+--Dalja nga Programi--
+
+Zgjidhni (6) për të mbyllur programin.
+
+imazhi 6
+
+Shënime
+- Programi mbështet deri në 100 llogari.
+- Bilanci i llogarisë inicializohet me $0 në krijim.
+- Depozitat duhet të jenë vlera pozitive.
+- Tërheqjet nuk mund të tejkalojnë balancën e llogarisë.
 

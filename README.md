@@ -14,3 +14,5 @@ Veçoritë
 1.Opsionet e Menysë Kryesore
 Kur e ekzekutoni programin, do të shihni menynë e mëposhtme:
 
+![Image](https://github.com/user-attachments/assets/2d4627d5-5c9f-4c35-8b78-34edada063d2)
+

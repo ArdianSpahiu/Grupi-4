@@ -10,7 +10,8 @@ Veçoritë
 - Kërkimi i një llogarie me numrin e saj
 - Shfaqja e të gjitha llogarive ekzistuese
 
- Si ta Përdorni
+Si ta Përdorni
+
 1.Opsionet e Menysë Kryesore
 Kur e ekzekutoni programin, do të shihni menynë e mëposhtme:
 

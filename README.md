@@ -56,7 +56,7 @@ Zgjidhni (5) për të parë të gjitha llogaritë e regjistruara së bashku me b
 
 Zgjidhni (6) për të mbyllur programin.
 
-imazhi 6
+![Image](https://github.com/user-attachments/assets/7ec25b43-9dae-4e5e-ad30-2366cddb1f49)
 
 Shënime
 - Programi mbështet deri në 100 llogari.

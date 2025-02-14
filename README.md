@@ -118,4 +118,14 @@ Hapat për të kontribuar
 
 ![Image](https://github.com/user-attachments/assets/01388b3c-5ba9-407b-8fc9-e91ae2ef0a2a)
 
+3. Bërja e Ndryshimeve dhe Konfirmimi (Commit)
+
+     Bëni ndryshimet e nevojshme në kod ose dokumentacion.
+
+     Ruani ndryshimet dhe sigurohuni që të punojnë siç duhet.
+
+     Shtoni një përshkrim të qartë të ndryshimeve që keni bërë.
+
+   
+
 

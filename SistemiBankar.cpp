@@ -9,7 +9,7 @@ int llogariTotale = 0;
 
 void depozitoPara()  //Lejon perdoruesit e depozitojne para ne llogarite e tyre ekzistuese.
 {
-	int int numriLlogarise;
+	int  numriLlogarise;
 	double shuma;
   cout << "Jepni numrin e llogarise: ";
 	cin >> numriLlogarise;
@@ -26,8 +26,11 @@ void depozitoPara()  //Lejon perdoruesit e depozitojne para ne llogarite e tyre 
 				cout << "Parate u depozituan me sukses!" << endl;
 			}
 			else
-				cout << "Shume invalide!" << endl; //Nese perdoruesi jep nje shume me te vogel se zero
+			{
+			cout << "Shume invalide!" << endl; //Nese perdoruesi jep nje shume me te vogel se zero
 			goto shuma1;
+			}
+			return ;// Dalja nga funksioni pas ekzekutimit te suksesshem
 		}
 	}
 	cout << "Llogaria nuk u gjet!" << endl; //Rasti kur numri i llogaris nuk eshte valid
@@ -62,6 +65,7 @@ void terhiqPara()
         }
     }
     cout << "Llogaria nuk u gjet!" << endl;
+}
 void krijollogari()     //Lejon perdoruesit qe te krijojne nje llogari te re
 {
 
@@ -91,7 +95,7 @@ void kerkoLlogarine() //I'u mundeson perdoruesve te kerkojne nje llogari unike p
 			return;
 			
 		}
-	} 
+	 
 	cout << "Llogaria nuk u gjet!" << endl;  //Rasti kur numri i dhene nuk eshte valid apo nuk ekziton  
 }
 

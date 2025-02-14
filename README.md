@@ -67,14 +67,24 @@ Shënime
 --Si të Klononi Projektin Lokalisht--
 
 1.Shkoni te butoni Code në GitHub.
-imazhi 1
+
+![Image](https://github.com/user-attachments/assets/f3d0f3b3-52de-4b2f-a96e-6cffedd560c2)
+
 2.Kopjoni linkun HTTPS të repository-t.
-imazhi 2
+
+![Image](https://github.com/user-attachments/assets/7cd0ebde-dc61-4319-aec9-39272b07dc74)
+
 3.Hapni Visual Studio dhe klikoni Clone Repository.
-imazhi 3
+
+![Image](https://github.com/user-attachments/assets/6c26b233-51e7-496f-9c71-423292adc1f2)
+
 4.Ngjitni linkun HTTPS që keni kopjuar.
 5.Klikoni Clone.
-imazhi 4
+
+![Image](https://github.com/user-attachments/assets/2e7763fb-6f76-4e58-a831-765c58481261)
+
+
 Ju e keni klonuar me sukses projektin!
-imazhi 5
+
+![Image](https://github.com/user-attachments/assets/fc510fa8-adcf-4e9e-9db2-3635a0d97770)
 

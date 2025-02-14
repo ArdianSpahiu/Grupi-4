@@ -7,7 +7,7 @@ int main()
 	//branch merge test
 	//test bbbb
 	int a = 0;
-	int b = 3;
+	int b = 12;
 	//test
 	//remote test
 	return 0;

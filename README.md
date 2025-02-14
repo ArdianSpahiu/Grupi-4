@@ -110,3 +110,10 @@ Hapat për të kontribuar
 ![Image](https://github.com/user-attachments/assets/92639780-d0b8-44fb-8d6a-fc347a1bcb6e)
 
 ![Image](https://github.com/user-attachments/assets/ab7a70aa-bf5f-4e8b-985f-2043551629af)
+
+2. Krijimi i një Dege të Re
+
+    Hapni projektin dhe krijoni një degë të re ku do të bëni ndryshimet.
+    Emërtoni degën në mënyrë të qartë që të përshkruajë punën tuaj.
+
+

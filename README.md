@@ -128,6 +128,15 @@ Hapat për të kontribuar
 
 ![Image](https://github.com/user-attachments/assets/648a0e4f-65d4-47a9-84b7-1afe67ad5635)
 
+4.   Dërgimi i Ndryshimeve në GitHub
+
+       Ngarkoni ndryshimet tuaja në llogarinë tuaj në GitHub.
+
+       Hapni projektin në GitHub dhe krijoni një Pull Request (PR).
+
+       Shtoni një përshkrim të qartë se çfarë përmirësimesh ose ndryshimesh keni bërë.
+
+     
    
 
 

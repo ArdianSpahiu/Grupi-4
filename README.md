@@ -105,9 +105,11 @@ Hapat për të kontribuar
    
    Në vazhdim gjeni udhezime vizuale se si ta bëni këtë.
 
-fork
-create fork
-clone fork
+![Image](https://github.com/user-attachments/assets/df7b08e5-5d1d-42ee-9c67-28beefdee267) 
+
+![Image](https://github.com/user-attachments/assets/91f73188-995f-4857-8cf9-ee868385a3ef)  
+
+![Image](https://github.com/user-attachments/assets/68d419fb-1e26-4aef-ab33-325602e433cd)
 
 2. Krijimi i një Dege të Re
 

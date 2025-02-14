@@ -44,7 +44,7 @@ Zgjidhni (3) nga menuja, shkruani numrin e llogarisë dhe përcaktoni shumën q�
 
 Zgjidhni (4) dhe shkruani numrin e llogarisë për të shfaqur emrin e mbajtësit të llogarisë, numrin e llogarisë dhe bilancin aktual.
 
-imazhi 4
+![Image](https://github.com/user-attachments/assets/4a15b8b9-6366-4349-bbad-b41e559c6694)
 
 --Shfaqja e të Gjitha Llogarive--
 

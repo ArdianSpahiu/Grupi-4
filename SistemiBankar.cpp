@@ -1,5 +1,5 @@
 #include <iostream>
-#include <ioamanip>
+#include <iomanip>
 using namepsace std;
 const int maxLlogari = 100;
 string emrat[maxLlogari];
